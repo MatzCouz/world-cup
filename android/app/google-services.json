@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410140070518",
+    "firebase_url": "https://englishforus-596e5-default-rtdb.firebaseio.com",
+    "project_id": "englishforus-596e5",
+    "storage_bucket": "englishforus-596e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410140070518:android:27008ee25ab880182c8557",
+        "android_client_info": {
+          "package_name": "com.example.englishtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410140070518-5irm5iabml832lko95jelj263l90j1bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2XtFPvLw0EEOp-XmwumeP7sbft2Ft90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410140070518-5irm5iabml832lko95jelj263l90j1bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
